@@ -17,5 +17,8 @@ Part 2: Deep Learning approaches, designed for use with GPU, particularly the fr
 
 [odsc22_bagtobert.pdf](https://github.com/bpben/bagging_to_bert/blob/main/odsc22_bagtobert.pdf)
 Slides from ODSC West
-[Google slides version (with links intact)](https://docs.google.com/presentation/d/1guSsq7FAdBLwD5SkiUb1NYiFJ2wLLeIGnnwzC2O5qUE)
+[Google slides version](https://docs.google.com/presentation/d/1guSsq7FAdBLwD5SkiUb1NYiFJ2wLLeIGnnwzC2O5qUE)
 
+[pydata_bagtobert.pdf](https://github.com/bpben/bagging_to_bert/blob/main/pydata_bagtobert.pdf)
+Slides from PyData NYC
+[Google slides version](https://docs.google.com/presentation/d/1aNQZGu2La5JzhlPDv6ij5l1BNMJEIsFb4EnE2SaUtaU)
