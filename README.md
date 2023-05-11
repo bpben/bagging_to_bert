@@ -15,6 +15,10 @@ Part 1: Bagging approaches, can be run fairly easily on a local machine
 [tutorial_notebook_part2](https://github.com/bpben/bagging_to_bert/blob/main/tutorial_notebook_part2.ipynb)
 Part 2: Deep Learning approaches, designed for use with GPU, particularly the free one from Google Colab
 
+[odsc23_bagtobert.pdf](https://github.com/bpben/bagging_to_bert/blob/main/odsc23_bagtobert.pdf)
+Slides from ODSC East
+[Google slides version](https://docs.google.com/presentation/d/1YHTtA_oPXwKRb8aVkg1kmbjyKSKWCA2GfqMB50x5B98)
+
 [odsc22_bagtobert.pdf](https://github.com/bpben/bagging_to_bert/blob/main/odsc22_bagtobert.pdf)
 Slides from ODSC West
 [Google slides version](https://docs.google.com/presentation/d/1guSsq7FAdBLwD5SkiUb1NYiFJ2wLLeIGnnwzC2O5qUE)
